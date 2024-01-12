@@ -11,3 +11,5 @@ I used BOW to analyze the persian sample posts in tweeter and find the trends.Yo
 ![Untitled (61)](https://github.com/rezaanalytics11/BOW_NLP_text_analysis/assets/105513524/89b2247c-ac07-4a3b-bb1b-8c085f83c15d)
 
 Nlp_Course_2 file
+
+I analyzed 3 articles about the Yemen crisis to identify the most frequently used words. You can run the file and see the results.
