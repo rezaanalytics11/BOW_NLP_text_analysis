@@ -13,3 +13,15 @@ I used BOW to analyze the persian sample posts in tweeter and find the trends.Yo
 Nlp_Course_2 file
 
 I analyzed 3 articles about the Yemen crisis to identify the most frequently used words. You can run the file and see the results.
+
+Nlp_Course_3 file
+
+I analyzed 3 articles about the Iran-Pakistan crisis to identify the most frequently used words.You can see the summerized results in below.(5 most frequent words)
+
+
+words   	Number of words in the corpus
+iran	    36
+iranian  	12
+pakistan	37
+said    	19
+strikes	  16
